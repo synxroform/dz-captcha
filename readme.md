@@ -1,4 +1,4 @@
-## Replay - kids playboard like UI/UX
+## DZ-CAPTCHA microservice
 
 <p align="center"><img style="max-height: 300px" src="about/screenshot.png" /></p>
 
